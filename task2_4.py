@@ -5,8 +5,7 @@ per = []
 
 if N > 0 and N <= 100:
     for i in range(N):
-        V, S = map(int, input(
-                            "Type years old, and who is it (1-man, 0-woman):").split())
+        V, S = map(int, input("How old, and who is it (1-M, 0-F):").split())
         if S == 1:
             per.append((V, S))
             m = max(per)
