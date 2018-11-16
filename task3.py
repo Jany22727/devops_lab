@@ -9,7 +9,7 @@ from time import sleep
 
 
 def system_state():
-    ''' Show system information'''
+    '''Show system information'''
     t = str(datetime.strftime(datetime.now(), "%H:%M:%S"))
     d = str(datetime.strftime(datetime.now(), "%d.%m.%Y"))
     cpu = str(psutil.cpu_percent(interval=1))
