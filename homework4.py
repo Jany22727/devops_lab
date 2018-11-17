@@ -1,11 +1,11 @@
-import json
-import psutil
 from config import interval
 from config import output
 from config import output_file_name
 from datetime import datetime
-from time import sleep
+import json
 from prettytable import PrettyTable
+import psutil
+from time import sleep
 
 
 class Metrics(object):
