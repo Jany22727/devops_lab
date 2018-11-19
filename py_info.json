@@ -1,0 +1,10 @@
+[
+" 1. Version: 3.6.5",
+" 2. Pyenv version-name: /bin/sh: 1: pyenv: not found",
+" 3. Virtual environment: /usr",
+" 4. Python executable location: /usr/local/bin/python",
+" 5. Pip location & version: \\n/usr/local/bin/pip\n/usr/local/bin/pip3\n/usr/local/bin/pip3.6",
+" 6. PYTHONPATH: \\n/home/jane/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/Labs/Python/Task6\n/usr/lib/python36.zip\n/usr/lib/python3.6\n/usr/lib/python3.6/lib-dynload\n/home/jane/.local/lib/python3.6/site-packages\n/usr/local/lib/python3.6/dist-packages\n/usr/lib/python3/dist-packages",
+" 7 Installed packages: name, version:\nccsm==0.9.13.1\ncompizconfig-python==0.9.13.1\nconfigobj==5.0.6\nconfigparser==3.5.0\nfuncsigs==1.0.2\nJinja2==2.10\nMarkupSafe==1.1.0\nmock==2.0.0\npbr==3.1.1\npycairo==1.16.2\npycodestyle==2.4.0\npycrypto==2.6.1\npyflakes==2.0.0\npygobject==3.26.1\npyparted==3.11.1\npython-apt==1.6.0\npython-xlib==0.20\npyxdg==0.25\nPyYAML==3.13\nsetproctitle==1.1.10\nsix==1.11.0\nvirtualenv==16.1.0",
+" 8. Site-packages location: \n/home/jane/.local/lib/python3.6/site-packages"
+]
